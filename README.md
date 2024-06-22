@@ -56,5 +56,6 @@ If you would like to contribute to this project, please follow these steps:
 4. Push to the branch
 5. Submit a pull request
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+## Contact
+
+If you have any questions, feedback, or inquiries regarding this project, please feel free to reach out to me through my Email: NouvAlqahtani@gmail.com .
