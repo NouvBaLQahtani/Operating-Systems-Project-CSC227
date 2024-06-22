@@ -1,4 +1,4 @@
-# Operating-Systems-Project-CSC227-Multilevel Queue (MLQ) Scheduling Algorithm
+# Multilevel Queue (MLQ) Scheduling Algorithm
 This project is part of the Operating systems course under my bachelor's degree in software engineering
 
 It is an implementation of the Multilevel Queue (MLQ) scheduling algorithm with two queues, Q1 and Q2, where Q1 has a higher priority than Q2. The scheduler follows the Round-Robin (RR) algorithm with a time quantum of 3 ms for processes in Q1 and the non-preemptive Shortest-Job-First (SJF) algorithm for processes in Q2.
