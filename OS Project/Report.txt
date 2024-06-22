@@ -1,0 +1,41 @@
+Processes Details:
+*******************
+ProcessID: 1 
+Priority: 2 
+ArrivalTime: 0 
+CPUburst: 3 
+StartTime: 0 
+TerminationTime: 3 
+TurnAroundTime: 3 
+WaitingTime: 0 
+ResponseTime: 0
+
+ProcessID: 2 
+Priority: 1 
+ArrivalTime: 3 
+CPUburst: 5 
+StartTime: 3 
+TerminationTime: 10 
+TurnAroundTime: 7 
+WaitingTime: 2 
+ResponseTime: 0
+
+ProcessID: 3 
+Priority: 1 
+ArrivalTime: 4 
+CPUburst: 2 
+StartTime: 6 
+TerminationTime: 8 
+TurnAroundTime: 4 
+WaitingTime: 2 
+ResponseTime: 2
+
+
+Scheduling order chart:| 1 | 2 | 3 | 2 | 
+
+Processes Scheduling Criteria:
+**************************************
+Average Turnaround Time : 4.667 
+Average Waiting Time    : 1.333 
+Average Response Time   : 0.667 
+
