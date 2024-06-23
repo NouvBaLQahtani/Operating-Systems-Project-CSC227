@@ -27,11 +27,21 @@ When the user selects option 1, the program will prompt for the following inform
   - Process arrival time
   - Process CPU burst time
 
+
+<img width="923" alt="Screenshot 2024-06-23 at 4 14 43 AM" src="https://github.com/NouvBaLQahtani/Operating-Systems-Project-CSC227/assets/106460665/96033501-28ab-47a7-a6f8-07ca9923536b">
+
 ### Output
 When the user selects option 2, the program will display the following information on the console and in the "Report.txt" file:
 - Scheduling order of the processes
 - Detailed information about each process (process ID, priority, arrival time, CPU burst time, start and termination time, turnaround time, waiting time, and response time)
 - Average turnaround time, average waiting time, and average response time for all processes in the system
+
+<img width="923" alt="Screenshot 2024-06-23 at 4 14 51 AM" src="https://github.com/NouvBaLQahtani/Operating-Systems-Project-CSC227/assets/106460665/a9fd44ff-97f8-484a-b8e0-cdf56c96cad2">
+
+The Report :  
+
+<img width="753" alt="Screenshot 2024-06-23 at 4 16 03 AM" src="https://github.com/NouvBaLQahtani/Operating-Systems-Project-CSC227/assets/106460665/0be0c6a1-fe31-41ea-b4e2-5d71d4c588ae">
+
 
 ## Project Structure
 
